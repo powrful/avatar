@@ -16,12 +16,12 @@ import srcSource from './sources/Src';
 import iconSource from './sources/Icon';
 
 const SOURCES = [
+    gravatarSource,
     facebookSource,
     googleSource,
     twitterSource,
     vkontakteSource,
     skypeSource,
-    gravatarSource,
     srcSource,
     valueSource,
     iconSource
